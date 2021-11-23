@@ -1,0 +1,19 @@
+TITLE     MDANALYSIS FRAMES FROM 0, STEP 1: Created by PDBWriter
+CRYST1   36.835   37.112   37.060  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C   PNP X   1      17.882  17.914  16.900  1.00  0.00      SYST C
+ATOM      2  C   PNP X   1      18.460  17.443  18.040  1.00  0.00      SYST C
+ATOM      3  C   PNP X   1      18.491  18.297  19.162  1.00  0.00      SYST C
+ATOM      4  C   PNP X   1      18.044  19.705  19.017  1.00  0.00      SYST C
+ATOM      5  C   PNP X   1      17.749  20.185  17.763  1.00  0.00      SYST C
+ATOM      6  C   PNP X   1      17.718  19.339  16.617  1.00  0.00      SYST C
+ATOM      7  O   PNP X   1      17.353  19.752  15.467  1.00  0.00      SYST O1-
+ATOM      8  N   PNP X   1      19.155  17.829  20.249  1.00  0.00      SYST N
+ATOM      9  O   PNP X   1      19.852  16.780  20.225  1.00  0.00      SYST O
+ATOM     10  O   PNP X   1      19.126  18.549  21.309  1.00  0.00      SYST O
+ATOM     11  H   PNP X   1      17.608  17.161  16.086  1.00  0.00      SYST H
+ATOM     12  H   PNP X   1      18.851  16.423  18.100  1.00  0.00      SYST H
+ATOM     13  H   PNP X   1      18.043  20.342  19.935  1.00  0.00      SYST H
+ATOM     14  H   PNP X   1      17.548  21.264  17.583  1.00  0.00      SYST H
+ENDMDL
+END
